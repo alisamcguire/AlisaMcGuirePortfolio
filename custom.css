@@ -2,6 +2,7 @@
 /*Style the header*/
 .bg-yellow {
   background-color:#ffdb58; /* Mustard Yellow */
+   padding-bottom: 20px; /* Add some padding to the bottom */
 }
 .text-dark-green {
     color: #006400; /* Dark Green */
