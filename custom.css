@@ -4,3 +4,13 @@
     color: #006400; /* Dark Green */
 }
 
+/* Contacts */
+<style>
+    .contact-list {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+</style>
