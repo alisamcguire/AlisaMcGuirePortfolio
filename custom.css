@@ -1,5 +1,11 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
 /*Style the header*/
-.bg-red {
-  background-color:red;
+.bg-yellow {
+  background-color:yellow;
+}
+.centered-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%; 
+    height: auto; 
 }
