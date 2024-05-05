@@ -1,9 +1,5 @@
 /* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
-/*Style the header*/
-.bg-yellow {
-  background-color:#ffdb58; /* Mustard Yellow */
-   padding-bottom: 40px; /* Add some padding to the bottom */
-}
+/* Header */
 .text-dark-green {
     color: #006400; /* Dark Green */
 }
