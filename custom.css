@@ -21,6 +21,6 @@ ul.contact-list {
 
 /* Menu Headings */
 h2.menu-heading {
-    margin-top: 20px; /* Adjust the margin-top value as needed */
+    margin-top: 20px; 
     text-decoration: underline;
 }
