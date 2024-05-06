@@ -6,15 +6,10 @@
 }
 
 /* Contacts */
-<style>
-    .contact-list {
+    ul.contact-list {
         list-style-type: none;
         padding: 0;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
     }
-</style>
 
 /* Menu Headings */
 .menu-heading {
