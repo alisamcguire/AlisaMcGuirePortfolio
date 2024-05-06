@@ -6,12 +6,13 @@
 }
 
 /* Contacts */
-    ul.contact-list {
-        list-style-type: none;
-        padding: 0;
-    }
+ul.contact-list {
+    list-style-type: none;
+    padding: 0;
+}
 
 /* Menu Headings */
-.menu-heading {
+h2.menu-heading {
     margin-top: 20px; /* Adjust the margin-top value as needed */
+    text-decoration: underline;
 }
