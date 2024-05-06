@@ -3,7 +3,15 @@
 .bg-dark-green {
     background-color: #006400; /* Dark Green */
     color: white; /* text color */
+    
 }
+
+h1 {
+  font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 /* Contacts */
 ul.contact-list {
